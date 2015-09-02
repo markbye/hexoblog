@@ -1,5 +1,7 @@
-# nodejs-hexo-blog   http://blog.fens.me/hexo-blog-github/
+# nodejs-hexo-blog   
+http://blog.fens.me/hexo-blog-github/
 this is first try.cool
+
 关于 git 的上传 还是有坑的：
 =============
 如果出现了“ERROR Deployer not found : github”，别急，看这里：
