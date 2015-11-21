@@ -14,3 +14,5 @@ keypoint:
 -------------
 比如ssh key的配置，目前是在mac下配置成功了，借助 <https://help.github.com/articles/generating-ssh-keys/> 此文档；
 <https://help.github.com/articles/set-up-git/> 也看这个；
+
+last addr: <http://markbye.github.io/hexoblog/>
